@@ -1,4 +1,5 @@
 <footer id="footer" class="clearfix">
+    <h2 class="text-center">CONTACT</h2>
     <div class="container-fluid kontakti-wrapper no-padding">
         <div class="row">
 
@@ -64,6 +65,9 @@
                 <div id="error_message" style="width:100%; height:100%; display:none; ">
                     <h3 class="bg-danger">Error</h3>Try again or refresh the page!
                 </div>
+                <br>
+                <p class="gdpr">Buy sending this form i agree to the privacy policy. <a href="#gdpr" role="button" data-toggle="modal">Više..</a></p> 
+            
             </div>
 
             <div class="col-md-4 col-xs-12 contact-info">
@@ -149,8 +153,8 @@
         </div>
         <div class="footer-bottom-right">
             <a href="https://www.cro-webdesign.com/" target="_blank">
-                <p class="text-center hidden-xs izradio">POWERED BY:<br>
-                    <span class="cw-logo"></span>
+                <p class="text-center hidden-xs izradio">EQUIPMENT PARTNER:<br> <br>
+               <a href="http://aquacentar.hr/" target="_blank">www.aquacentar.hr</a>
                 </p>
             </a>
         </div>

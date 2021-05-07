@@ -1391,16 +1391,16 @@ header {
 	background-position: center center;
 	@include xxs {
 		background-image: url(../img/tenerife/tenerife-bg-xs.jpg);
-		padding-top: 120px;
-		padding-bottom: 120px;
+		padding-top: 90px;
+		padding-bottom: 100px;
 	}
 	@include sm {
 		background-image: url(../img/tenerife/tenerife-bg-sm.jpg);
 	}
 	@include md {
 		background-image: url(../img/tenerife/tenerife-bg-md.jpg);
-		padding-top: 220px;
-		padding-bottom: 220px;
+		padding-top: 140px;
+		padding-bottom: 150px;
 	}
 	@include lg {
 		background-image: url(../img/tenerife/tenerife-bg-lg.jpg);
@@ -1918,6 +1918,7 @@ header {
 //******************FOOTER SECTION *********************//
 //foter partneri
 #partneri2 {
+	margin-top: 40px;
 	background: $pink-gradient;
 	padding-left: 0px;
 	padding-right: 0px;
@@ -1925,6 +1926,7 @@ header {
 #testimonial-slider-partneri2 {
 	background: $pink-gradient;
 	.testimonial {
+		background-color: inherit;
 		color: $bg-white;
 		padding-top: 40px;
 		margin-bottom: 10px;
@@ -1932,6 +1934,7 @@ header {
 			a {
 				@include xxs {
 					img {
+						border-radius: 5px;
 						margin: 0 auto;
 						width: 80px;
 					}
@@ -1948,6 +1951,10 @@ header {
 }
 //footer
 #footer {
+	h2 {
+		padding-bottom: 40px;
+		color: $primary;
+	}
 	color: $primary;
 	.facebook {
 		display: inline-block;
@@ -1981,9 +1988,6 @@ header {
 		margin: 0 auto;
 
 		padding-bottom: 80px;
-		@include sm {
-			padding-top: 80px;
-		}
 	}
 	.contact-info {
 		hr {
@@ -2033,9 +2037,7 @@ header {
 			}
 		}
 	}
-	h2 {
-		color: $bg-white;
-	}
+
 	h4 {
 		@include xxs {
 			padding-top: 80px;

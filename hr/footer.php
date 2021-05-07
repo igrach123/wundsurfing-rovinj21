@@ -51,6 +51,7 @@
                 <div id="error_message" style="width:100%; height:100%; display:none; ">
                     <h3 class="bg-danger">Error</h3>Try again or refresh the page!
                 </div>
+                <p class="gdpr">Buy sending this form i agree to the privacy policy. <a href="#gdpr" role="button" data-toggle="modal">more..</a></p>
             </div>
             <!-- map visible xs only -->
             <div class="col-md-4 col-xs-12 visible-xs visible-sm">

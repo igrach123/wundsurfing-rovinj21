@@ -99,6 +99,36 @@
                                 <img src="img/gallery/g8_sm.jpg" data-src="img/gallery/g8_sm.jpg"
                                     class="img img-responsive img-rounded " alt="Windsurfing Centar Rovinj"></a>
                         </div>
+                        <div class="imgwrapper  card-2 wow fadeInUp" data-wow-delay="1.2s">
+                            <a href="img/gallery/w1.jpg" title="Windsurfing Centar Rovinj">
+                                <img src="img/gallery/w1sm.jpg" data-src="img/gallery/w1sm.jpg"
+                                    class="img img-responsive img-rounded " alt="Windsurfing Centar Rovinj"></a>
+                        </div>
+                        <div class="imgwrapper  card-2 wow fadeInUp" data-wow-delay="1.2s">
+                            <a href="img/gallery/w2.jpg" title="Windsurfing Centar Rovinj">
+                                <img src="img/gallery/w2sm.jpg" data-src="img/gallery/w2sm.jpg"
+                                    class="img img-responsive img-rounded " alt="Windsurfing Centar Rovinj"></a>
+                        </div>
+                        <div class="imgwrapper  card-2 wow fadeInUp" data-wow-delay="1.2s">
+                            <a href="img/gallery/w3.jpg" title="Windsurfing Centar Rovinj">
+                                <img src="img/gallery/w3sm.jpg" data-src="img/gallery/w3sm.jpg"
+                                    class="img img-responsive img-rounded " alt="Windsurfing Centar Rovinj"></a>
+                        </div>
+                        <div class="imgwrapper  card-2 wow fadeInUp" data-wow-delay="1.2s">
+                            <a href="img/gallery/w4.jpg" title="Windsurfing Centar Rovinj">
+                                <img src="img/gallery/w4sm.jpg" data-src="img/gallery/w4sm.jpg"
+                                    class="img img-responsive img-rounded " alt="Windsurfing Centar Rovinj"></a>
+                        </div>
+                        <div class="imgwrapper  card-2 wow fadeInUp" data-wow-delay="1.2s">
+                            <a href="img/gallery/a1.jpg" title="Windsurfing Centar Rovinj">
+                                <img src="img/gallery/a1_sm.jpg" data-src="img/gallery/a1_sm.jpg"
+                                    class="img img-responsive img-rounded " alt="Windsurfing Centar Rovinj"></a>
+                        </div>
+                        <div class="imgwrapper  card-2 wow fadeInUp" data-wow-delay="1.2s">
+                            <a href="img/gallery/a2.jpg" title="Windsurfing Centar Rovinj">
+                                <img src="img/gallery/a2_sm.jpg" data-src="img/gallery/a2_sm.jpg"
+                                    class="img img-responsive img-rounded " alt="Windsurfing Centar Rovinj"></a>
+                        </div>
                     </div>
                 </div> <!-- panel body -->
             </div> <!-- collapse one -->

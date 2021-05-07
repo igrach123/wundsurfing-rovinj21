@@ -25,6 +25,7 @@ The duration of our kayak tour is around 2 hours.
 Meeting point: Windsurf center Red island.
 Route: Island St. Andrew-Island St. John-Lighthouse St John-Island St. Andrew
 
+<h5 class="services-sm-title text-uppercase">Don’t forget to take with you:</h5>
     <ul class="list-group">
         <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Water</li>
         <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Suntan lotion</li>

@@ -755,9 +755,9 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 @media only screen and (min-width: 480px) { #tenerife h3 { font-size: 3.5rem; } }
 @media only screen and (min-width: 992px) { #tenerife h3 { font-size: 4.5rem; } }
 @media only screen and (min-width: 480px) { #tenerife .btn { padding-right: 100px !important; padding-left: 100px !important; } }
-@media only screen and (min-width: 320px) { #tenerife { background-image: url(../img/tenerife/tenerife-bg-xs.jpg); padding-top: 120px; padding-bottom: 120px; } }
+@media only screen and (min-width: 320px) { #tenerife { background-image: url(../img/tenerife/tenerife-bg-xs.jpg); padding-top: 90px; padding-bottom: 100px; } }
 @media only screen and (min-width: 768px) { #tenerife { background-image: url(../img/tenerife/tenerife-bg-sm.jpg); } }
-@media only screen and (min-width: 992px) { #tenerife { background-image: url(../img/tenerife/tenerife-bg-md.jpg); padding-top: 220px; padding-bottom: 220px; } }
+@media only screen and (min-width: 992px) { #tenerife { background-image: url(../img/tenerife/tenerife-bg-md.jpg); padding-top: 140px; padding-bottom: 150px; } }
 @media only screen and (min-width: 1200px) { #tenerife { background-image: url(../img/tenerife/tenerife-bg-lg.jpg); } }
 
 #rent { background-color: #fafafa; color: #ffffff; }
@@ -889,20 +889,20 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #routes p:hover { color: #ffa01b; cursor: pointer; cursor: hand; }
 #routes .col-xs-6 { padding-left: 0px; }
 
-#partneri2 { background: linear-gradient(to right, #f7b733, #fc4a1a); padding-left: 0px; padding-right: 0px; }
+#partneri2 { margin-top: 40px; background: linear-gradient(to right, #f7b733, #fc4a1a); padding-left: 0px; padding-right: 0px; }
 
 #testimonial-slider-partneri2 { background: linear-gradient(to right, #f7b733, #fc4a1a); }
-#testimonial-slider-partneri2 .testimonial { color: #ffffff; padding-top: 40px; margin-bottom: 10px; }
-@media only screen and (min-width: 320px) { #testimonial-slider-partneri2 .testimonial .pic a img { margin: 0 auto; width: 80px; } }
+#testimonial-slider-partneri2 .testimonial { background-color: inherit; color: #ffffff; padding-top: 40px; margin-bottom: 10px; }
+@media only screen and (min-width: 320px) { #testimonial-slider-partneri2 .testimonial .pic a img { border-radius: 5px; margin: 0 auto; width: 80px; } }
 @media only screen and (min-width: 992px) { #testimonial-slider-partneri2 .testimonial .pic a img { margin: 0 auto; width: 120px; } }
 
 #footer { color: rgba(0, 0, 0, 0.87); }
+#footer h2 { padding-bottom: 40px; color: rgba(0, 0, 0, 0.87); }
 #footer .facebook { display: inline-block; width: 35px; height: 35px; background-image: url("../img/social/facebook-logo.png"); background-position: center center; background-size: cover; margin: 5px; transition: background-image 0.4s all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); }
 #footer .facebook:hover { background-image: url("../img/social/facebook.png"); }
 #footer .instagram { display: inline-block; margin: 5px; width: 35px; height: 35px; background-image: url("../img/social/instagram-logo.png"); background-position: center center; background-size: cover; transition: background-image 0.4s all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); }
 #footer .instagram:hover { background-image: url("../img/social/instagram.png"); }
 #footer .kontakti-wrapper { max-width: 1920px; margin: 0 auto; padding-bottom: 80px; }
-@media only screen and (min-width: 768px) { #footer .kontakti-wrapper { padding-top: 80px; } }
 @media only screen and (min-width: 320px) { #footer .contact-info hr { margin-left: 20%; width: 60%; } }
 @media only screen and (min-width: 992px) { #footer .contact-info hr { margin-left: 0%; } }
 #footer .contact-info li .btn-default:hover { background-color: inherit; color: #ffab35; border: 1px solid #ffab35; }
@@ -912,7 +912,6 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #footer .contact-list li h5 span { color: #ffa01b; margin-right: 5px; }
 #footer .contact-list li h5 .fa-whatsapp { margin-left: 5px; }
 @media only screen and (min-width: 992px) { #footer .contact-list li { text-align: left; } }
-#footer h2 { color: #ffffff; }
 #footer h4 { margin-bottom: 20px; color: #ffa01b; padding-bottom: 10px; text-transform: uppercase; }
 @media only screen and (min-width: 320px) { #footer h4 { padding-top: 80px; } }
 @media only screen and (min-width: 992px) { #footer h4 { padding-top: 15px; } }
@@ -989,5 +988,3 @@ body.modal-open[style] { padding-right: 0px !important; padding-left: 0px !impor
 .modal-content { margin-top: 75px; }
 
 .modal-body p { padding-top: 10px; padding-bottom: 20px; }
-
-/*# sourceMappingURL=style.css.map */

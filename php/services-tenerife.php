@@ -40,9 +40,9 @@
                     <b> So come and join us, wether experienced are just curious and answer the call of the wind.</b>
                 </p>
                 <hr>
-                <img class="img-responsive lazy-img visible-lg" src="img/tenerife/tenerife-1080.jpg"
+                <img class="img-responsive lazy-img visible-lg " width="600px" src="img/tenerife/tenerife-1080.jpg"
                     data-echo="img/tenerife/tenerife-1080.jpg" alt="Premantura">
-                <img class="img-responsive lazy-img visible-sm visible-md" src="img/tenerife/tenerife-720.jpg"
+                <img class="img-responsive lazy-img visible-sm visible-md" width="200px" src="img/tenerife/tenerife-720.jpg"
                     data-echo="img/tenerife/tenerife-720.jpg" alt="Premantura">
                 <img class="img-responsive lazy-img visible-xs" src="img/tenerife/tenerife-480.jpg"
                     data-echo="img/tenerife/tenerife-480.jpg" alt="Premantura">
