@@ -433,8 +433,8 @@ header {
 
 		#logo1 {
 			position: static;
-			margin-top: -30px;
-			width: 150px;
+			margin-top: 75px;
+			width: 130px;
 			height: 80px;
 			background-image: url(../img/logo-small-3.png);
 			background-repeat: no-repeat;
@@ -483,9 +483,9 @@ header {
 
 		//change logo on scroll
 		#logo1 {
-			transition: all 0.3s ease-in-out;
-			margin-top: -35px;
-			width: 200px;
+			transition: all 0.1s ease-in-out;
+			margin-top: 95px;
+			width: 250px;
 			height: 85px;
 			background-image: url(../img/logo-big-3.png);
 			background-repeat: no-repeat;
