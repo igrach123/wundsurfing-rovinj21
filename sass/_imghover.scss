@@ -1,0 +1,88 @@
+.service-wrap {
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.t-4,
+.t-5,
+.t-6 {
+  .card-2 {
+    position: relative;
+    overflow: hidden;
+    transition: 0.6s ease-in-out;
+    -webkit-transition: 0.6s ease-in-out;
+  }
+}
+.s-img-h-1,
+.s-img-h-2,
+.s-img-h-3 {
+  display: block;
+  background-size: cover;
+  background-repeat: no-repeat;
+  transition: 0.6s ease-in-out;
+  -webkit-transition: 0.6s ease-in-out;
+  height: 100%;
+  padding-top: 150px;
+  background-position: center center;
+
+  .services-info {
+    text-emphasis: none;
+    text-align: center;
+    margin-bottom: 150px;
+    font-size: 2.4rem;
+    color: $bg-white;
+    span {
+      border: 1px solid $main-orange;
+      border-radius: 10px;
+      padding: 10px;
+      transition: 0.6s ease-in-out;
+      -webkit-transition: 0.6s ease-in-out;
+    }
+  }
+
+  h3 {
+    @include xxs {
+      font-size: 2rem;
+    }
+    @include xs {
+      font-size: 2.4rem;
+    }
+    @include md {
+      font-size: 2.8rem;
+    }
+    text-align: center;
+    padding: 40px;
+    margin-bottom: 0;
+    color: $bg-white;
+    background-color: rgba($main-orange, 0.6);
+    font-weight: 900;
+    transition: 0.6s ease-in-out;
+    -webkit-transition: 0.6s ease-in-out;
+  }
+}
+.s-img-h-1 {
+  background-image: url("../img/services/windsurfing-s-bg.jpg");
+}
+.s-img-h-2 {
+  background-image: url("../img/services/kayaking-s-bg.jpg");
+}
+
+.s-img-h-3 {
+  background-image: url("../img/services/sup-s-bg.jpg");
+}
+
+.s-img-h-1:hover,
+.s-img-h-2:hover,
+.s-img-h-3:hover,
+.s-img-h-1:focus,
+.s-img-h-2:focus,
+.s-img-h-3:focus {
+  text-decoration: none;
+  h3 {
+    background-color: rgba($main-orange, 1);
+  }
+  .services-info {
+    span {
+      background-color: $main-orange;
+    }
+  }
+}
