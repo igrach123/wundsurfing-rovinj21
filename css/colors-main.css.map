@@ -1,9 +1,7 @@
 {
-    "version": 3,
-    "mappings": "",
-    "sources": [
-        "../sass/colors-main.scss"
-    ],
-    "names": [],
-    "file": "colors-main.css"
+"version": 3,
+"mappings": "",
+"sources": [],
+"names": [],
+"file": "colors-main.css"
 }
