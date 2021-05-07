@@ -543,9 +543,7 @@ header {
 
 	@include sm {
 		.navbar-default {
-			background: rgba($bg-white, 0.4);
-			background: rgba($main-blue, 0.4);
-			background: $pink-gradient-tr;
+			background: rgba(255, 160, 27, 0.85);
 
 			box-shadow: none;
 			margin-top: 42px;
@@ -702,7 +700,7 @@ header {
 		width: 100%;
 		z-index: 400;
 		text-align: right;
-		background: $pink-gradient-tr;
+		background-color: $primary;
 		font-weight: 400;
 		transition: 0.3s ease-in-out;
 		-webkit-transition: 0.3s ease-in-out;
