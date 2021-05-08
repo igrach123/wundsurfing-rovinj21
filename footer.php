@@ -134,7 +134,20 @@
                     </li>
 
                 </ul>
+                
             </div>
+           
+                <div class="text-center clearfix">
+                        <div class="row">
+                            <div class="col-xs-12 partners">
+                                        <p>PARTNERS: <br>
+                                        <img src="img/aqua.png" width="80px" alt="aqua"> <a href="http://aquacentar.hr/" target="_blank">www.aquacentar.hr</a> |  <img src="img/maistra.png" width="80px" alt="maistra">   <a href="https://www.maistra.hr/" target="_blank">www.maistra.hr</a>
+                                        </p>
+                                        
+                            </div>
+                        
+                        </div>      
+                </div>
         </div>
     </div>
 
@@ -152,11 +165,7 @@
                     <?php echo date("Y"); ?> </span> </p>
         </div>
         <div class="footer-bottom-right">
-            <a href="https://www.cro-webdesign.com/" target="_blank">
-                <p class="text-center hidden-xs izradio">EQUIPMENT PARTNER:<br> <br>
-               <a href="http://aquacentar.hr/" target="_blank">www.aquacentar.hr</a>
-                </p>
-            </a>
+           
         </div>
     </div>
     </div> <!-- end of container -->

@@ -568,13 +568,13 @@ header .navbar-default .navbar-collapse, header .navbar-default .navbar-form { b
   header .navbar-default .navbar-nav > li > a:hover, header .navbar-default .navbar-nav > li > a:focus { color: #eb5e6e; background-color: transparent; } }
 @media only screen and (min-width: 768px) { header .navbar-collapse { padding-top: 15px; padding-bottom: 0px; }
   header .navbar-nav { padding-top: 0px; margin: 0px; margin-left: 0px; }
-  header #logo1 { position: static; margin-top: 75px; width: 130px; height: 80px; background-image: url(../img/logo-small-3.png); background-repeat: no-repeat; background-position: center; background-size: contain; }
+  header #logo1 { position: static; margin-top: 5px; height: 50px; background-image: url(../img/logo-small-3.png); background-repeat: no-repeat; background-position: center; background-size: contain; }
   header #logo1.smaller { margin-top: 5px; height: 50px; background-image: url(../img/logo-small-3.png); background-repeat: no-repeat; background-position: center; background-size: contain; }
   header .navbar-default .navbar-collapse, header .navbar-default .navbar-form { border: none; background-color: inherit; box-shadow: none; }
   header .navbar-default .navbar-nav > li > a::before, header .navbar-default .navbar-nav > li > a::before { content: ""; position: absolute; left: 50%; bottom: 0; width: 80%; height: 2px; background-color: #fc2f70; transform-origin: center; transform: translate(-50%, 0) scaleX(0); transition: transform 0.3s ease-in-out; }
   header .navbar-default .navbar-nav > li > a:hover::before, header .navbar-default .navbar-nav > li > a:focus::before { transform: translate(-50%, 0) scaleX(1); } }
 @media only screen and (min-width: 992px) { header .container { padding-left: 0px; padding-right: 0px; }
-  header #logo1 { transition: all 0.1s ease-in-out; margin-top: 95px; width: 250px; height: 85px; background-image: url(../img/logo-big-3.png); background-repeat: no-repeat; background-position: center; background-size: contain; }
+  header #logo1 { margin-top: 5px; background-image: url(../img/logo-small-3.png); width: 200px; height: 50px; background-repeat: no-repeat; background-position: center; }
   header #logo1.smaller { margin-top: 5px; background-image: url(../img/logo-small-3.png); width: 200px; height: 50px; background-repeat: no-repeat; background-position: center; } }
 @media (max-width: 767px) { header .navbar-scroll-custom { transform: translateY(-65px); transition-duration: 0.6s; } }
 @media only screen and (min-width: 320px) { header .navbar-header button { margin-top: 12px; border: none; }
@@ -988,3 +988,5 @@ body.modal-open[style] { padding-right: 0px !important; padding-left: 0px !impor
 .modal-content { margin-top: 75px; }
 
 .modal-body p { padding-top: 10px; padding-bottom: 20px; }
+
+.partners { margin-top: 30px; }

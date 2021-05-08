@@ -81,7 +81,12 @@
                 <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                     <div class="panel-body">
                         <div id="tesla2" class="row">
-                            <div class=" botmargin col-xs-4 col-sm-6 ">
+                            <div class=" botmargin col-xs-4 col-sm-3 ">
+                                <a href="img/tenerife/tenerife-4.jpg" title="Tenerife">
+                                    <img src="img/tenerife/tenerife-4sm.jpg" data-src="img/tenerife/tenerife-4.jpg"
+                                        class="img img-responsive img-rounded card-1 " alt="Tenerife"></a>
+                            </div>
+                            <div class=" botmargin col-xs-4 col-sm-3 ">
                                 <a href="img/tenerife/tenererife-1.jpg" title="Tenerife">
                                     <img src="img/tenerife/tenererife-1.jpg" data-src="img/tenerife/tenererife-1.jpg"
                                         class="img img-responsive img-rounded card-1 " alt="Tenerife"></a>
