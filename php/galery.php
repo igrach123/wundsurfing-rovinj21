@@ -116,7 +116,8 @@
             <!-- yt  video -->
 
         </div>
-    </div></div>
+    </div>
+</div>
 
 </section>
 <div class="clear-fix"></div>

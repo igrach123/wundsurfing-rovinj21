@@ -53,8 +53,9 @@
                         <a class="in-top" href="https://www.instagram.com/windsurfingrovinj/" target="_blank">
                             <span class="fa fa-instagram "></span></a></li>
                     <li id="lang-id">
-                        <a href="../index.php"> <img src="../img/eng-flag.png" alt="eng"></a>
-                        <a href="index.php"> <img src="../img/cro-flag.png" alt="hr"></a>
+                    <a href="index.php" class="active-lng"> <img src="../img/cro-flag.png" alt="hr" ></a>
+                        <a href="../index.php"> <img src="../img/eng-flag.png" alt="eng" class="grayscale"></a>
+                     
                     </li>
                 </ul>
             </div><!-- /.navbar-collapse -->
