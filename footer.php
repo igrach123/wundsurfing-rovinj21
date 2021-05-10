@@ -47,7 +47,7 @@
                         <div class="col-sm-5">
                             <img src="captcha.php" id="captcha_image" />
                             <br />
-                            <a id="captcha_reload" href="#">reload</a>
+                            <a id="captcha_reload" href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a>
                         </div>
                         <div class="col-sm-6">
                             <input placeholder="Unesite kod s slike ovdje" type="text" class="form-control" required
@@ -66,7 +66,7 @@
                     <h3 class="bg-danger">Error</h3>Try again or refresh the page!
                 </div>
                 <br>
-                <p class="gdpr">Buy sending this form i agree to the privacy policy. <a href="#gdpr" role="button" data-toggle="modal">Više..</a></p> 
+                <p class="gdpr">Buy sending this form i agree to the privacy policy. <a href="#gdpr" role="button" data-toggle="modal">more..</a></p> 
             
             </div>
 
@@ -165,7 +165,11 @@
                     <?php echo date("Y"); ?> </span> </p>
         </div>
         <div class="footer-bottom-right">
-           
+        <a href="https://www.linkedin.com/in/igor-brajkovi%C4%87-5673b1105" target="_blank">
+                <p class="text-center hidden-xs izradio">POWERED BY:<br>
+                    <span class="cw-logo"></span>
+                </p>
+            </a>
         </div>
     </div>
     </div> <!-- end of container -->

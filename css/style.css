@@ -535,7 +535,7 @@ a.btn-primary:focus, a.btn-primary:active, .dropdown-toggle.btn-primary:focus { 
 
 .btn-success:focus, .dropdown-toggle.btn-primary:focus { background-color: inherit; color: #3b5998; border: 1px solid #3b5998; }
 
-@media only screen and (min-width: 320px) { h1 { font-size: 3.5rem; margin-top: 0px; margin-bottom: 0px; font-weight: 600; padding-top: 300px; padding-bottom: 0px; text-align: center; }
+@media only screen and (min-width: 320px) { h1 { font-size: 3.5rem; margin-top: 0px; margin-bottom: 0px; font-weight: 600; padding-top: 200px; padding-bottom: 0px; text-align: center; }
   h1 span.small { letter-spacing: 10px; margin-top: 0px; color: #e0e0e0; text-transform: uppercase; text-align: center; }
   h2 { font-size: 1.5em; } }
 @media only screen and (min-width: 768px) { h1 { padding-bottom: 100px; }
@@ -806,7 +806,8 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #promo .p2 { font-size: 1.6rem; margin-top: 0px; color: #ffffff; }
 #promo .p1 { color: #ffffff; }
 
-#onama { padding-top: 80px; background-color: #ffffff; margin: 0 auto; }
+#onama { padding-top: 0px; padding-top: 80px; background-color: #ffffff; margin: 0 auto; }
+#onama h2 { padding-top: 0px; }
 #onama .onama-wrapper { max-width: 1920px; margin: 0 auto; }
 #onama .badge { padding: 5px 15px 5px; font-size: 18px; font-weight: bold; white-space: nowrap; color: #ffffff; background-color: #ffa01b; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; border: none; }
 @media only screen and (min-width: 320px) { #onama #showtext { display: none; transition: display 0.3s ease-in-out; } }

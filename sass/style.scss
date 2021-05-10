@@ -242,7 +242,7 @@ a.btn-primary:active,
 		margin-top: 0px;
 		margin-bottom: 0px;
 		font-weight: 600;
-		padding-top: 300px;
+		padding-top: 200px;
 		padding-bottom: 0px;
 		text-align: center;
 		span.small {
@@ -1624,6 +1624,10 @@ header {
 
 // o nama
 #onama {
+	h2 {
+		padding-top: 0px;
+	}
+	padding-top: 0px;
 	.onama-wrapper {
 		max-width: 1920px;
 		margin: 0 auto;

@@ -15,9 +15,7 @@
                             (Translated by Google) Environment nice, very committed instructors, excellent results.
                             After 6 lessons my kids were able to go around the island Sveti Andrjia completely
                             independently. An ideal place to learn to surf. I can only speak well of this school.
-                            Beautiful environment, very good instructors, great results. After 6 lessons my boys were
-                            able to circumnavigate the island Sveti Andrjia completely independent. An ideal place to
-                            learn how to surf. I can recommand this school.
+                           .
                         </p>
                         <p class="text-left stars"><span class="fa fa-star"></span><span class="fa fa-star"></span><span
                                 class="fa fa-star"></span><span class="fa fa-star"></span><span
