@@ -43,7 +43,6 @@
                                 <img src="img/gallery/a8_sm.jpg" data-src="img/gallery/a8_sm.jpg"
                                     class="img img-responsive img-rounded " alt="Windsurfing Centar Rovinj"></a>
                         </div>
-
                         <div class="imgwrapper  card-2 wow fadeInUp" data-wow-delay="0.75s">
                             <a href="img/gallery/a10.jpg" title="Windsurfing Centar Rovinj">
                                 <img src="img/gallery/a10_sm.jpg" data-src="img/gallery/a10_sm.jpg"

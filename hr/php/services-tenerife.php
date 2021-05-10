@@ -34,10 +34,10 @@
                         vjetra.</b>
                 </p>
                 <hr>
-                <img class="img-responsive lazy-img visible-lg" src="../img/tenerife/tenerife-1080.jpg"
+                <img class="img-responsive lazy-img visible-lg" width="600px" src="../img/tenerife/tenerife-1080.jpg"
                     data-echo="img/tenerife/tenerife-1080.jpg" alt="Premantura">
                 <img class="img-responsive lazy-img visible-sm visible-md" src="../img/tenerife/tenerife-720.jpg"
-                    data-echo="img/tenerife/tenerife-720.jpg" alt="Premantura">
+                    data-echo="img/tenerife/tenerife-720.jpg" width="200px" alt="Premantura">
                 <img class="img-responsive lazy-img visible-xs" src="../img/tenerife/tenerife-480.jpg"
                     data-echo="img/tenerife/tenerife-480.jpg" alt="Premantura">
 
@@ -75,7 +75,12 @@
                 <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                     <div class="panel-body">
                         <div id="tenrifeHr" class="row">
-                            <div class=" botmargin col-xs-4 col-sm-6 ">
+                        <div class=" botmargin col-xs-4 col-sm-3 ">
+                                <a href="../img/tenerife/tenerife-4.jpg" title="Tenerife">
+                                    <img src="../img/tenerife/tenerife-4sm.jpg" data-src="../img/tenerife/tenerife-4.jpg"
+                                        class="img img-responsive img-rounded card-1 " alt="Tenerife"></a>
+                            </div>
+                            <div class=" botmargin col-xs-4 col-sm-3 ">
                                 <a href="../img/tenerife/tenererife-1.jpg" title="Tenerife">
                                     <img src="../img/tenerife/tenererife-1.jpg"
                                         data-src="../img/tenerife/tenererife-1.jpg"
@@ -87,7 +92,7 @@
                                         data-src="../img/tenerife/tenererife-2.jpg"
                                         class="img img-responsive img-rounded card-1 " alt="Tenerife"></a>
                             </div>
-                            <div class=" botmargin col-xs-4  col-sm-3">
+                            <div class=" botmargin col-xs-4 col-sm-3">
                                 <a href="../img/tenerife/tenererife-3.jpg" title="Tenerife">
                                     <img src="../img/tenerife/tenererife-3.jpg"
                                         data-src="../img/tenerife/tenererife-3.jpg"
