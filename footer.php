@@ -118,23 +118,7 @@
                         <button id="brod" class="btn btn-default btn-sm" data-toggle="modal" type="button"
                             data-target="#boat"><span class="fa fa-clock-o"></span> BOAT SCHEDULE
                         </button>
-                    </li>
-
-                  
-
-                  
-                    <hr>
-                    <li>
-                        <h5>FOLLOW US</h5>
-                    </li>
-                    <li>
-                        <a class="facebook-modal-link " href="https://www.facebook.com/wsurfrovinj/"
-                            target="_blank"><span class="fa fa-facebook fa-2x"></span></a>
-                        <a class="instagram-modal-link " href="https://www.instagram.com/windsurfingrovinj/"
-                            target="_blank">
-                            <span class="fa fa-instagram fa-2x"></span></a>
-                    </li>
-
+                    </li> 
                 </ul>
                 
             </div>
@@ -146,14 +130,24 @@
                 <div class="text-center clearfix">
                         <div class="row">
                            
-                            <div class="col-xs-12 col-sm-6 partners">
+                        <div class="col-xs-12 col-sm-4 partners">
+                                        <p>FOLLOW US ON SOCIAL MEDIA <br> <br>
+                                        <a class="facebook-modal-link " href="https://www.facebook.com/wsurfrovinj/"
+                            target="_blank"><span class="fa fa-facebook fa-2x"></span></a>
+                        <a class="instagram-modal-link " href="https://www.instagram.com/windsurfingrovinj/"
+                            target="_blank">
+                            <span class="fa fa-instagram fa-2x"></span></a>
+                                             
+                                        </p>           
+                            </div>
+                            <div class="col-xs-12 col-sm-4 partners">
                                         <p>PARTNERS: <br>
                                         <a href="http://aquacentar.hr/" target="_blank"> <img src="img/aqua.png" width="80px" alt="aqua"></a>
                                         <a href="https://www.maistra.hr/" target="_blank"> <img src="img/maistra.png" width="80px" alt="maistra"> </a>
                                              
                                         </p>           
                             </div>
-                            <div class="col-xs-12 col-sm-6 partners">
+                            <div class="col-xs-12 col-sm-4 partners">
                                         <p>SAFE STAY IN CROATIA <br>
                                         <a href="https://www.safestayincroatia.hr/en" target="_blank"> <img src="img/safe.png" width="200px" alt="Safe stay in Croatia"></a>
 
