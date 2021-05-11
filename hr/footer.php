@@ -67,7 +67,7 @@
 
             <div class="col-md-4 col-xs-12 contact-info">
                 <h4 class="text-center">
-                    KONTAKT
+                    KONTAKT I LOKACIJA
                 </h4>
 
                 <ul class="list-unstyled contact-list">

@@ -906,7 +906,7 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 .partners p { color: #ffa01b; font-weight: 600; }
 
 #footer { color: rgba(0, 0, 0, 0.87); }
-#footer h2 { padding-bottom: 40px; color: rgba(0, 0, 0, 0.87); }
+#footer h2 { padding-top: 80px; padding-bottom: 20px; color: rgba(0, 0, 0, 0.87); }
 #footer .facebook { display: inline-block; width: 35px; height: 35px; background-image: url("../img/social/facebook-logo.png"); background-position: center center; background-size: cover; margin: 5px; transition: background-image 0.4s all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); }
 #footer .facebook:hover { background-image: url("../img/social/facebook.png"); }
 #footer .instagram { display: inline-block; margin: 5px; width: 35px; height: 35px; background-image: url("../img/social/instagram-logo.png"); background-position: center center; background-size: cover; transition: background-image 0.4s all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); }
@@ -922,7 +922,7 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #footer .contact-list li h5 .fa-whatsapp { margin-left: 5px; }
 @media only screen and (min-width: 992px) { #footer .contact-list li { text-align: left; } }
 #footer h4 { margin-bottom: 20px; color: #ffa01b; padding-bottom: 10px; text-transform: uppercase; }
-@media only screen and (min-width: 320px) { #footer h4 { padding-top: 80px; } }
+@media only screen and (min-width: 320px) { #footer h4 { padding-top: 20px; } }
 @media only screen and (min-width: 992px) { #footer h4 { padding-top: 15px; } }
 #footer h5 { color: #eb5e6e; font-weight: bolder; }
 @media only screen and (min-width: 320px) { #footer { text-align: center; } }
@@ -930,6 +930,8 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 @media only screen and (min-width: 992px) { #footer .row .footer-content { text-align: left; } }
 
 #contact-container { padding-bottom: 30px; }
+
+.partners a { margin-left: 10px; }
 
 .footer-top2 ul { padding-left: 0px; list-style-type: none; }
 .footer-top2 ul li { color: #e0e0e0; text-decoration: none; padding-left: 0px; }

@@ -1967,7 +1967,8 @@ header {
 }
 #footer {
 	h2 {
-		padding-bottom: 40px;
+		padding-top: 80px;
+		padding-bottom: 20px;
 		color: $primary;
 	}
 	color: $primary;
@@ -2055,7 +2056,7 @@ header {
 
 	h4 {
 		@include xxs {
-			padding-top: 80px;
+			padding-top: 20px;
 		}
 		@include md {
 			padding-top: 15px;
@@ -2088,6 +2089,11 @@ header {
 }
 #contact-container {
 	padding-bottom: 30px;
+}
+.partners {
+	a {
+		margin-left: 10px;
+	}
 }
 .footer-top2 {
 	ul {
