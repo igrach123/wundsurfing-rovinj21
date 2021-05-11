@@ -50,7 +50,7 @@
                             <a id="captcha_reload" href="#"><i class="fa fa-refresh" aria-hidden="true"></i></a>
                         </div>
                         <div class="col-sm-6">
-                            <input placeholder="Unesite kod s slike ovdje" type="text" class="form-control" required
+                            <input placeholder="Type the code from the image" type="text" class="form-control" required
                                 id="captcha" name="captcha">
                         </div>
                     </div>
@@ -76,7 +76,28 @@
                 </h4>
 
                 <ul class="list-unstyled contact-list">
+                <li class="bot-contact">
+                        <h5><span class="fa fa-phone"></span> TEL / <span class="fa fa-whatsapp"></span> WHATSAPP -
+                            VIBER</h5>
+                    </li>
+                    <li class="bot-contact"> <a href="tel:+385(0)922991550"> +385 (0)92 299 1550</a></li>
+                    <hr>
+                    <li class="bot-contact">
+                        <h5><span class="fa fa-envelope-o"></span> EMAIL</h5>
+                    </li>
+                    <li class="bot-contact">
+                        <script TYPE="text/javascript">
+                        emailE = ('info@windsurfing-rovinj' + '.com')
+                        document.write('<a href="mailto:' + emailE + '">' + emailE + '</a>')
+                        </script>
+
+                        <noscript>
+                            <em>Email address protected by JavaScript.<BR>
+                                Please enable JavaScript to contact me.</em>
+                        </noscript>
+                    </li>
                     <li>
+                    <hr>
                         <h5> <span class="fa fa-map-marker"></span> BOAT DOCKING STATIONS </h5>
                     </li>
                     <li><a href="https://goo.gl/maps/BCngHH2HKN8RS5WS7" target="_blank"
@@ -99,28 +120,9 @@
                         </button>
                     </li>
 
-                    <hr>
+                  
 
-                    <li class="bot-contact">
-                        <h5><span class="fa fa-phone"></span> TEL / <span class="fa fa-whatsapp"></span> WHATSAPP -
-                            VIBER</h5>
-                    </li>
-                    <li class="bot-contact"> <a href="tel:+385 (0)922991550"> +385 (0)92 299 1550</a></li>
-                    <hr>
-                    <li class="bot-contact">
-                        <h5><span class="fa fa-envelope-o"></span> EMAIL</h5>
-                    </li>
-                    <li class="bot-contact">
-                        <script TYPE="text/javascript">
-                        emailE = ('info@windsurfing-rovinj' + '.com')
-                        document.write('<a href="mailto:' + emailE + '">' + emailE + '</a>')
-                        </script>
-
-                        <noscript>
-                            <em>Email address protected by JavaScript.<BR>
-                                Please enable JavaScript to contact me.</em>
-                        </noscript>
-                    </li>
+                  
                     <hr>
                     <li>
                         <h5>FOLLOW US</h5>
@@ -136,19 +138,32 @@
                 </ul>
                 
             </div>
-           
+        </div> <!-- end of row -->
+        <div class="container">
+        <hr>
+        </div>
+        
                 <div class="text-center clearfix">
                         <div class="row">
-                            <div class="col-xs-12 partners">
+                           
+                            <div class="col-xs-12 col-sm-6 partners">
                                         <p>PARTNERS: <br>
-                                        <img src="img/aqua.png" width="80px" alt="aqua"> <a href="http://aquacentar.hr/" target="_blank">www.aquacentar.hr</a> |  <img src="img/maistra.png" width="80px" alt="maistra">   <a href="https://www.maistra.hr/" target="_blank">www.maistra.hr</a>
-                                        </p>
-                                        
+                                        <a href="http://aquacentar.hr/" target="_blank"> <img src="img/aqua.png" width="80px" alt="aqua"></a>
+                                        <a href="https://www.maistra.hr/" target="_blank"> <img src="img/maistra.png" width="80px" alt="maistra"> </a>
+                                             
+                                        </p>           
+                            </div>
+                            <div class="col-xs-12 col-sm-6 partners">
+                                        <p>SAFE STAY IN CROATIA <br>
+                                        <a href="https://www.safestayincroatia.hr/en" target="_blank"> <img src="img/safe.png" width="200px" alt="Safe stay in Croatia"></a>
+
+                                             
+                                        </p>           
                             </div>
                         
                         </div>      
                 </div>
-        </div>
+        
     </div>
 
 

@@ -903,6 +903,8 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 @media only screen and (min-width: 320px) { #testimonial-slider-partneri2 .testimonial .pic a img { border-radius: 5px; margin: 0 auto; width: 80px; } }
 @media only screen and (min-width: 992px) { #testimonial-slider-partneri2 .testimonial .pic a img { margin: 0 auto; width: 120px; } }
 
+.partners p { color: #ffa01b; font-weight: 600; }
+
 #footer { color: rgba(0, 0, 0, 0.87); }
 #footer h2 { padding-bottom: 40px; color: rgba(0, 0, 0, 0.87); }
 #footer .facebook { display: inline-block; width: 35px; height: 35px; background-image: url("../img/social/facebook-logo.png"); background-position: center center; background-size: cover; margin: 5px; transition: background-image 0.4s all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); }
