@@ -36,15 +36,5 @@
 
         </div>
     </div>
-    <div class="row text-center video-bot">
-        <div class="col-sm-6  onama-front">
-            <h4>Windsurfing Rovinj</h4>
-            <div class="js-lazyYT card-2" data-youtube-id="9jOuVBb_ZjY" data-ratio="16:9"></div>
-        </div>
-        <div class="col-sm-6  onama-front">
-            <h4>Stand Up Paddle - Rovinj</h4>
-            <div class="js-lazyYT card-2" data-youtube-id="X3QYxILjGY4" data-ratio="16:9"></div>
-        </div>
-    </div>
 
 </div>

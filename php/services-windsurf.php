@@ -115,6 +115,12 @@ upwind sailing and jibe practicing between beautiful nearby islands.
 
                 <hr>
                 <h5 class="services-sm-title">GALLERY & SOCIAL</h5>
+                <div class="row text-center video-bot">
+                    <div class="col-sm-12  onama-front">
+                        <div class="js-lazyYT card-2" data-youtube-id="9jOuVBb_ZjY" data-ratio="16:9"></div>
+                    </div>
+
+                </div>
                 <!-- galerija -->
                 <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                     <div class="panel-body">
