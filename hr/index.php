@@ -83,13 +83,12 @@
     <!-- end of services -->
     <?php include "php/onama.php"?>
     <?php include "php/galery.php"?>
-    <?php include "php/promo.php"?>
-
     <?php include "php/testimonials.php"?>
-    <?php include "php/partner-slide.php"?>
+    <?php include "php/promo.php"?>
     <?php include "../php/forecast.php"?>
-   
-    <?php include "php/partner-slide.php" ?>
+    <?php include "php/partner-slide.php"?>
+
+
     <?php include "php/boat-times.php"?>
     <?php include "php/top-location.php"?>
     <?php include "php/privacy.php"?>

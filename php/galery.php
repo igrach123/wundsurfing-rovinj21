@@ -1,7 +1,7 @@
 <!-- GALERIJA SLIKA ENG-->
 <section class="container-fluid" id="galery">
 
-    <div class="container">
+    <div class="">
     <div class="row">
         <div class="col-sm-12" id="bike-gallery">
             <h2>GALLERY</h2>

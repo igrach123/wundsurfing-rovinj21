@@ -16,7 +16,7 @@
 
 
             <!-- map visible xs only -->
-            <div class="col-md-4 col-xs-12 visible-xs visible-sm">
+            <div class="col-md-4 col-xs-12 visible-xs visible-sm">  
                 <div class id="map">
                     <h4>VISIT US</h4>
                     <div class="google-maps">
