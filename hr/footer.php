@@ -1,4 +1,5 @@
 <footer id="footer" class="clearfix">
+<h2 class="text-center">KONTAKT & LOKACIJA</h2>
     <div class="container-fluid kontakti-wrapper no-padding">
         <div class="row">
 

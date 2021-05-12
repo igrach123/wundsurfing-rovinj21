@@ -1015,7 +1015,7 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 
 a.back-to-top { display: none; width: 40px; height: 40px; position: fixed; bottom: 20px; right: 20px; background: white url("../img/chevron-arrow-up.png") no-repeat center; border-radius: 50%; z-index: 1000; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24); transition: background 0.4s ease-in-out; transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); }
 
-a.back-to-top:hover { background: #0087c5 url("../img/chevron-arrow-up2.png") no-repeat center; box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22); }
+a.back-to-top:hover { background: #ffa01b url("../img/chevron-arrow-up2.png") no-repeat center; box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22); }
 
 body.modal-open { overflow: auto; z-index: 1000; }
 
