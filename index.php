@@ -35,9 +35,9 @@
     <link href="#" rel="canonical" /> <!-- dodati stranicu na kraju -->
     <link href="index.php" rel="alternate" hreflang="en">
     <meta name="keywords"
-        content="Windusrfing School Rovinj, Windsurfing rental, Kayaking rental and Tours, Stand Up Paddle rental">
+        content="Windusrfing School Rovinj, Kayaking Rovinj, Windsurfing rental, Kayaking rental and Tours, Stand Up Paddle rental">
     <meta name="description"
-        content="Windusrfing School Rovinj, Windsurfing rental, Kayaking rental, Kayaking Tours, Stand up Paddle rental">
+        content="Windusrfing School Rovinj, Kayaking Rovinj, Windsurfing rental, Kayaking rental, Kayaking Tours, Stand up Paddle rental">
     <meta http-equiv="content-language" content="en,hr">
     <!-- sharethis javascript gdpr -->
     <script type='text/javascript'
