@@ -8,8 +8,8 @@
                 <h4 class="modal-title">KAJAK</h4>
             </div>
             <div class="modal-body">
-                <h5 class="services-sm-title">NAJAM KAJAKA <span class="price-badge hidden-xs">80,00 HRK</span></h5>
-                <span class="price-badge2 visible-xs">80,00 HRK</span>
+                <h5 class="services-sm-title">NAJAM KAJAKA <!-- <span class="price-badge hidden-xs">80,00 HRK</span> --></h5>
+             <!--    <span class="price-badge2 visible-xs">80,00 HRK</span> -->
                 <p class="text-muted">Pozicija Windsurf centra Red island se nalazi u samom srcu Rovinjskog arhipelaga.
                     Na samo par minuta veslanja sa sjeverne strane nalazi se kamenolom i Punta Corrente dok se prema
                     jugu prostiru najveći i najljepši otoci Rovinjskog arhipelaga Maškin, Sturago, Sv. Ivan i Sv. Ivan
@@ -17,9 +17,9 @@
                     netaknute plaže i uvale do kojih je moguće doći samo s mora.
                 </p>
                 <hr>
-                <h5 class="services-sm-title">KAYAK SUNSET TOUR <span class="price-badge hidden-xs">200,00 HRK</span>
+                <h5 class="services-sm-title">KAYAK SUNSET TOUR <!-- <span class="price-badge hidden-xs">200,00 HRK</span> -->
                 </h5>
-                <span class="price-badge2 visible-xs">200,00 HRK</span>
+                <!-- <span class="price-badge2 visible-xs">200,00 HRK</span> -->
                 <p class="text-muted">Poznato je da Rovinj ima jedan od najljepših zalazaka, no želite li ga doživjeti
                     uz potpuni mir bilo bi se dobro otisnuti malo na more i to bez buke motora, uz lagani zvuk vesla i
                     kayaka kako ide kroz vodu.

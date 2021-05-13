@@ -11,15 +11,15 @@
             <div class="modal-body">
                 <h5 class="services-sm-title">TEČAJEVI</h5>
 
-                <h6> <span><i class="fa fa-star-half-o" aria-hidden="true"></i></span> Probni tečaj <span
-                        class=" price-badge"> 500,00 HRK</span></h6>
+                <h6> <span><i class="fa fa-star-half-o" aria-hidden="true"></i></span> Probni tečaj <!-- <span
+                        class=" price-badge"> 500,00 HRK</span> --></h6>
                 <p>Namijenjen je za sve one koji žele isprobati kako je to jedriti na dasci. Tečaj se sastoji od dva
                     sata. Prvi sat je simulator i na vodi te drugi sat se odvija na vodi.
 
                 </p>
                 <hr>
                 <h6><span><i class="fa fa-star" aria-hidden="true"></i></span> Grupni tečajevi jedrenja na dasci
-                    (početnici)<span class=" price-badge">900,00 HRK</span>
+                    (početnici, 4h i 8h)<!-- <span class=" price-badge">900,00 HRK</span> -->
                 </h6>
                 <p>Tečajevima jedrenja na dasci mogu se priključiti svi u dobi od 6 godina. Tečaj traje 8 sati, i odvija
                     se ujutro od 10:00-12:00 i u popodnevnom terminu od 15:00-17:00, od toga, prvi sat se odvija na
@@ -41,7 +41,7 @@
 
                 <h6> <span><i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i><i
                             class="fa fa-star" aria-hidden="true"></i>
-                    </span> Napredni tečaj jedrenja na dasci <span class=" price-badge">1000,00 HRK</span></h6>
+                    </span> Napredni tečaj jedrenja na dasci <!-- <span class=" price-badge">1000,00 HRK</span> --></h6>
                 <p>Napredni tečaj jedrenja na dasci je predviđen za sve one koji su savladali elemente početničkog
                     tečaja te žele nastaviti svoju edukaciju jedrenja na dasci. Napredni tečaj se sastoji od pet
                     elemenata koji se uče u pet sati koliko i traje tečaj. Elementi su brzi okret u vjetar, okret niz

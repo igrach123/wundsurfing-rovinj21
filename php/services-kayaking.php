@@ -8,36 +8,34 @@
                 <h4 class="modal-title">KAYAKING</h4>
             </div>
             <div class="modal-body">
-                <h5 class="services-sm-title">KAYAK RENTAL <span class="price-badge hidden-xs">80,00 HRK</span></h5>
+                <h5 class="services-sm-title">KAYAK RENTAL <!-- <span class="price-badge hidden-xs">80,00 HRK</span> --></h5>
                 <span class="price-badge2 visible-xs">80,00 HRK</span>
                 <p class="text-muted">Visit us at our kayak rental station located on beautiful island St. Andrew. Start the adventure of exploring the nearby islands, enjoy the natural beauties of the coast and the open sea, meet the dolphins… Kayak rental on St. Andrew Island is here to help you to create the unforgettable memories while paddling through clear blue sparkling sea.
                 </p>
                 <hr>
-                <h5 class="services-sm-title">KAYAK SUNSET TOUR <span class="price-badge hidden-xs">200,00 HRK</span>
+                <h5 class="services-sm-title">KAYAK SUNSET TOUR <!-- <span class="price-badge hidden-xs">200,00 HRK</span> -->
                 </h5>
                 <span class="price-badge2 visible-xs">200,00 HRK</span>
 
                 <p class="text-muted">Kayak sunset tour starts from our rental station on island St Andrew when we start  to paddle to island St. John. 
-When we get there, we make a short break on the island.
-Here you will have the time to drink water and take some photos, after visiting old Benedictians church. The brave ones will have the opportunity to jump in the sea from cliff.
-After break we are kayaking around islands and searching for dolphins during the amazing sunset.
-The duration of our kayak tour is around 2 hours.
-Meeting point: Windsurf center Red island.
-Route: Island St. Andrew-Island St. John-Lighthouse St John-Island St. Andrew
+                        When we get there, we make a short break on the island.
+                        Here you will have the time to drink water and take some photos, after visiting old Benedictians church. The brave ones will have the opportunity to jump in the sea from cliff.
+                        After break we are kayaking around islands and searching for dolphins during the amazing sunset.
+                        The duration of our kayak tour is around 2 hours.
+                        Meeting point: Windsurf center Red island.
+                        Route: Island St. Andrew-Island St. John-Lighthouse St John-Island St. Andrew
 
-<h5 class="services-sm-title text-uppercase">Don’t forget to take with you:</h5>
-    <ul class="list-group">
-        <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Water</li>
-        <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Suntan lotion</li>
-        <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Swimsuit</li>
-        <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Sunglasses</li>
-        <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Slippers / sandals
-</li>
-        <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Good vibes (obligatory)
-</li>
-    </ul>
-
-
+                    <h5 class="services-sm-title text-uppercase">Don’t forget to take with you:</h5>
+                        <ul class="list-group">
+                            <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Water</li>
+                            <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Suntan lotion</li>
+                            <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Swimsuit</li>
+                            <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Sunglasses</li>
+                            <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Slippers / sandals
+                    </li>
+                            <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Good vibes (obligatory)
+                    </li>
+                        </ul>
 
                 </p>
                 <hr>
@@ -51,9 +49,6 @@ Route: Island St. Andrew-Island St. John-Lighthouse St John-Island St. Andrew
                                 <th scope="col">2H KAYAK RENTAL </th>
                                 <th scope="col">4H KAYAK RENTAL </th>
                                 <th scope="col">8H KAYAK RENTAL </th>
-
-
-
                             </tr>
                         </thead>
                         <tbody>

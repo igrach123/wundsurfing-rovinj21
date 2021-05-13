@@ -11,8 +11,8 @@
             <div class="modal-body">
                 <h5 class="services-sm-title">COURSES</h5>
 
-                <h6> <span><i class="fa fa-star-half-o" aria-hidden="true"></i></span> Try out course (group) <span
-                        class=" price-badge"> 500,00 HRK</span></h6>
+                <h6> <span><i class="fa fa-star-half-o" aria-hidden="true"></i></span> Try out course (group) <!-- <span
+                        class=" price-badge"> 500,00 HRK</span> --></h6>
                 <p>This course of two hours is conducted for those who want to try out the windsurfing. First steps in
 windsurfing starts with a simulator, on the land, to explain and show our students how does windsurfing
 work. After they try to start, move the sail and make a turn on the simulator, the funniest part on the
@@ -33,7 +33,7 @@ hours course, price of the course will be reduced by the price of test course.
                     and the simulator. The following lessons will continue on the sea where we practice starting,
                     standing and turns on the board. Everything what’ve we learned on land in introduction part.</p>
                 <hr> -->
-                <h6><span><i class="fa fa-star" aria-hidden="true"></i></span> BEGINNER COURSE (group)<span class=" price-badge">900,00 HRK</span>
+                <h6><span><i class="fa fa-star" aria-hidden="true"></i></span> BEGINNER COURSE (group, 4h and 8h)<!-- <span class=" price-badge">900,00 HRK</span> -->
                 </h6>
                 <p>Begin your beautiful windsurf journey with our experienced instructors, who will teach you in possitive
 atmosphere and with entusiasm to share with you all their skills and knowledge.
@@ -54,7 +54,7 @@ to children, from 6 years old, with individual approach and especially small and
 
                 <h6> <span><i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i><i
                             class="fa fa-star" aria-hidden="true"></i>
-                    </span> Advanced windsurfing course <span class=" price-badge">1000,00 HRK</span></h6>
+                    </span> Advanced windsurfing course <!-- <span class=" price-badge">1000,00 HRK</span> --></h6>
                 <p>For those who want to improve their windsurf skills we offer advanced course. It&#39;s adjusted to your level
 and it lasts 5 hours. Most of the course is followed by maestral wind whose direction let us training
 upwind sailing and jibe practicing between beautiful nearby islands.
