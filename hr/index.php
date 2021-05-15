@@ -39,6 +39,11 @@
     <meta name="description"
         content="Tečaj Windsurfa, Windsurf, Tečaj jedrenja na dasci,Jedrenje na dascri, Kajak Rovinj, Najam kajak, Izlet kajak, Crveni otok">
     <meta http-equiv="content-language" content="en,hr">
+    <meta property="og:url"           content="https://www.windsurfing-rovinj.com" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title"         content="Windsurfing Rovinj" />
+    <meta property="og:description"   content="WIndsurfing School located on the Red Island in Rovinj. Best place to learn, rent, end enyoj windsurfing, Kayaking and Stand up Paddle in Croatia." />
+    <meta property="og:image"         content="http://windsurfing-rovinj.com/img/gallery/a2.jpg"/>
     <!-- sharethis javascript gdpr -->
     <script type='text/javascript'
         src='//platform-api.sharethis.com/js/sharethis.js#property=5d110856a0d27e001207a4b7&product=sticky-share-buttons'

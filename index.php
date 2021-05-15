@@ -40,6 +40,12 @@
         content="Windusrfing School Rovinj, Kayaking Rovinj, Windsurfing rental, Kayaking rental, Kayaking Tours, Stand up Paddle rental">
     <meta http-equiv="content-language" content="en,hr">
     <!-- sharethis javascript gdpr -->
+   <!-- Social tags  -->
+   <meta property="og:url"     content="https://www.windsurfing-rovinj.com" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title"         content="Windsurfing Rovinj" />
+    <meta property="og:description"   content="WIndsurfing School located on the Red Island in Rovinj. Best place to learn, rent, end enyoj windsurfing, Kayaking and Stand up Paddle in Croatia." />
+    <meta property="og:image"         content="http://windsurfing-rovinj.com/img/gallery/a2.jpg"/>
     <script type='text/javascript'
         src='//platform-api.sharethis.com/js/sharethis.js#property=5d110856a0d27e001207a4b7&product=sticky-share-buttons'
         async='async'></script>
