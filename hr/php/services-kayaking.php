@@ -39,9 +39,8 @@
                         <thead>
                             <tr>
                                 <th scope="col">1H NAJAM KAJAKA </th>
-                                <th scope="col">2H NAJAM KAJAKA </th>
-                                <th scope="col">4H NAJAM KAJAKA </th>
-                                <th scope="col">8H NAJAM KAJAKA </th>
+                                <th scope="col">4H/pola dana NAJAM KAJAKA </th>
+                                <th scope="col">8H/1dan NAJAM KAJAKA </th>
 
 
 
@@ -49,9 +48,8 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td>80.00 kn</td>
-                                <td>150,00 kn</td>
-                                <td>250,00 kn</td>
+                                <td>100.00 kn</td>
+                                <td>300,00 kn</td>
                                 <td>400,00 kn</td>
 
                             </tr>
@@ -69,7 +67,7 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td>200.00 kn</td>
+                                <td>250.00 kn/po osobi</td>
                             </tr>
                         </tbody>
                     </table>

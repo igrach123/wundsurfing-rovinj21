@@ -75,11 +75,11 @@ upwind sailing and jibe practicing between beautiful nearby islands.
                         </thead>
                         <tbody>
                             <tr>
-                                <td>200.00 kn</td>
+                                <td>500.00 kn</td>
                                 <td>900,00 kn</td>
                                 <td>1.500,00 kn</td>
-                                <td>200,00 kn</td>
-                                <td>1000,00 kn</td>
+                                <td>250,00 kn</td>
+                                <td>1200,00 kn</td>
                                 <td>370,00 kn</td>
                             </tr>
                         </tbody>
@@ -92,17 +92,15 @@ upwind sailing and jibe practicing between beautiful nearby islands.
                         <thead>
                             <tr>
                                 <th scope="col">1H</th>
-                                <th scope="col">2H</th>
                                 <th scope="col">3H</th>
                                 <th scope="col">1 DAY</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>130.00 kn</td>
-                                <td>250,00 kn</td>
-                                <td>300,00 kn</td>
-                                <td>450,00 kn</td>
+                                <td>150.00 kn</td>                              
+                                <td>350,00 kn</td>
+                                <td>500,00 kn</td>
                             </tr>
                         </tbody>
                     </table>

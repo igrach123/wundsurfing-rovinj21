@@ -46,16 +46,14 @@
                         <thead>
                             <tr>
                                 <th scope="col">1H KAYAK RENTAL </th>
-                                <th scope="col">2H KAYAK RENTAL </th>
-                                <th scope="col">4H KAYAK RENTAL </th>
-                                <th scope="col">8H KAYAK RENTAL </th>
+                                <th scope="col">4H/half day KAYAK RENTAL </th>
+                                <th scope="col">8H/1day KAYAK RENTAL </th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>80.00 kn</td>
-                                <td>150,00 kn</td>
-                                <td>250,00 kn</td>
+                                <td>100.00 kn</td>
+                                <td>300,00 kn</td>
                                 <td>400,00 kn</td>
 
                             </tr>
@@ -73,7 +71,7 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td>200.00 kn</td>
+                                <td>250.00 kn / per person</td>
                             </tr>
                         </tbody>
                     </table>

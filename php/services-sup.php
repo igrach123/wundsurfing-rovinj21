@@ -24,10 +24,8 @@ memories while paddling through clear blue sparkling sea.</b>
                         <thead>
                             <tr>
                                 <th scope="col">1H </th>
-                                <th scope="col">2H </th>
-                                <th scope="col">3H FLEX </th>
-                                <th scope="col">5H FLEX </th>
-                                <th scope="col">8H FLEX </th>
+                                <th scope="col">4H/half day </th>
+                                <th scope="col">8H/1 day  </th>
 
 
 
@@ -36,10 +34,8 @@ memories while paddling through clear blue sparkling sea.</b>
                         <tbody>
                             <tr>
                                 <td>100.00 kn</td>
-                                <td>190,00 kn</td>
-                                <td>260,00 kn</td>
+                                <td>300,00 kn</td>
                                 <td>400,00 kn</td>
-                                <td>550,00 kn</td>
                             </tr>
                         </tbody>
                     </table>
