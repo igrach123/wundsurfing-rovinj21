@@ -78,11 +78,13 @@
                 </div>
 
                 <h6 class="text-muted text-center h7"><b>NAJAM OPREME</b> </h6>
+
                 <div class="table-responsive">
+
                     <table class="table table-hover table-striped">
                         <thead>
                             <tr>
-                                <th scope="col">1H</th>>
+                                <th scope="col">1H</th>
                                 <th scope="col">3H</th>
                                 <th scope="col">1 DAN</th>
                             </tr>

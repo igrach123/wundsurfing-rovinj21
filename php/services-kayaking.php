@@ -9,13 +9,13 @@
             </div>
             <div class="modal-body">
                 <h5 class="services-sm-title">KAYAK RENTAL <!-- <span class="price-badge hidden-xs">80,00 HRK</span> --></h5>
-                <span class="price-badge2 visible-xs">80,00 HRK</span>
+               
                 <p class="text-muted">Visit us at our kayak rental station located on beautiful island St. Andrew. Start the adventure of exploring the nearby islands, enjoy the natural beauties of the coast and the open sea, meet the dolphins… Kayak rental on St. Andrew Island is here to help you to create the unforgettable memories while paddling through clear blue sparkling sea.
                 </p>
                 <hr>
                 <h5 class="services-sm-title">KAYAK SUNSET TOUR <!-- <span class="price-badge hidden-xs">200,00 HRK</span> -->
                 </h5>
-                <span class="price-badge2 visible-xs">200,00 HRK</span>
+               
 
                 <p class="text-muted">Kayak sunset tour starts from our rental station on island St Andrew when we start  to paddle to island St. John. 
                         When we get there, we make a short break on the island.
