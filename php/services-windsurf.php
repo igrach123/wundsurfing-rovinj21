@@ -11,13 +11,18 @@
             <div class="modal-body">
                 <h5 class="services-sm-title">COURSES</h5>
 
-                <h6> <span><i class="fa fa-star-half-o" aria-hidden="true"></i></span> Try out course (group) <!-- <span
-                        class=" price-badge"> 500,00 HRK</span> --></h6>
+                <h6> <span><i class="fa fa-star-half-o" aria-hidden="true"></i></span> Try out course (group)
+                    <!-- <span
+                        class=" price-badge"> 500,00 HRK</span> -->
+                </h6>
                 <p>This course of two hours is conducted for those who want to try out the windsurfing. First steps in
-windsurfing starts with a simulator, on the land, to explain and show our students how does windsurfing
-work. After they try to start, move the sail and make a turn on the simulator, the funniest part on the
-sea can start in our safe bay, just in front of the school! If the student decides to continue with 4 or 8
-hours course, price of the course will be reduced by the price of test course.
+                    windsurfing starts with a simulator, on the land, to explain and show our students how does
+                    windsurfing
+                    work. After they try to start, move the sail and make a turn on the simulator, the funniest part on
+                    the
+                    sea can start in our safe bay, just in front of the school! If the student decides to continue with
+                    4 or 8
+                    hours course, price of the course will be reduced by the price of test course.
 
                 </p>
 
@@ -33,31 +38,41 @@ hours course, price of the course will be reduced by the price of test course.
                     and the simulator. The following lessons will continue on the sea where we practice starting,
                     standing and turns on the board. Everything what’ve we learned on land in introduction part.</p>
                 <hr> -->
-                <h6><span><i class="fa fa-star" aria-hidden="true"></i></span> BEGINNER COURSE (group, 4h and 8h)<!-- <span class=" price-badge">900,00 HRK</span> -->
+                <h6><span><i class="fa fa-star" aria-hidden="true"></i></span> BEGINNER COURSE (group, 4h and 8h)
+                    <!-- <span class=" price-badge">900,00 HRK</span> -->
                 </h6>
-                <p>Begin your beautiful windsurf journey with our experienced instructors, who will teach you in possitive
-atmosphere and with entusiasm to share with you all their skills and knowledge.
-For our students who never before tried how to windsurf, beginning of learning how to start is on the
-land. After a short theory on the simulator, getting know the equipment and trying out the basics,
-course is moving from the land to the sea, in our small and safe bay.
-Complete beginner course takes 8 hours, with a possibility of taking half of the course (4 hours). Number
-of the days and lessons per a day is adjusted to the student but usually complete course of 8 hours takes
-4 days, with one hour lesson in the morning (between 10-12) and one hour lesson in the afternoon
-(between 14.00 and 17.00).
-We are doing courses on Croatian, English, Russian, Italian and German. Equipment we use is adjusted
-to light condition and beginner level, with stable boards and light sails for all. Special attention we give
-to children, from 6 years old, with individual approach and especially small and light equipment.
-* Possibility of getting the VDWS licence, with taking an exam and additional paying.
+                <p>Begin your beautiful windsurf journey with our experienced instructors, who will teach you in
+                    possitive
+                    atmosphere and with entusiasm to share with you all their skills and knowledge.
+                    For our students who never before tried how to windsurf, beginning of learning how to start is on
+                    the
+                    land. After a short theory on the simulator, getting know the equipment and trying out the basics,
+                    course is moving from the land to the sea, in our small and safe bay.
+                    Complete beginner course takes 8 hours, with a possibility of taking half of the course (4 hours).
+                    Number
+                    of the days and lessons per a day is adjusted to the student but usually complete course of 8 hours
+                    takes
+                    4 days, with one hour lesson in the morning (between 10-12) and one hour lesson in the afternoon
+                    (between 14.00 and 17.00).
+                    We are doing courses on Croatian, English, Russian, Italian and German. Equipment we use is adjusted
+                    to light condition and beginner level, with stable boards and light sails for all. Special attention
+                    we give
+                    to children, from 6 years old, with individual approach and especially small and light equipment.
+                    * Possibility of getting the VDWS licence, with taking an exam and additional paying.
                 </p>
                 <hr>
 
 
                 <h6> <span><i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i><i
                             class="fa fa-star" aria-hidden="true"></i>
-                    </span> Advanced windsurfing course <!-- <span class=" price-badge">1000,00 HRK</span> --></h6>
-                <p>For those who want to improve their windsurf skills we offer advanced course. It&#39;s adjusted to your level
-and it lasts 5 hours. Most of the course is followed by maestral wind whose direction let us training
-upwind sailing and jibe practicing between beautiful nearby islands.
+                    </span> Advanced windsurfing course
+                    <!-- <span class=" price-badge">1000,00 HRK</span> -->
+                </h6>
+                <p>For those who want to improve their windsurf skills we offer advanced course. It&#39;s adjusted to
+                    your level
+                    and it lasts 5 hours. Most of the course is followed by maestral wind whose direction let us
+                    training
+                    upwind sailing and jibe practicing between beautiful nearby islands.
                 </p>
                 <h5 class="services-sm-title">PRICE LIST</h5>
                 <h6 class="text-muted text-center h7"><b>WINDSURF COURSE (GROUP AND INDIVIDUAL)</b></h6>
@@ -71,16 +86,18 @@ upwind sailing and jibe practicing between beautiful nearby islands.
                                 <th scope="col">1H Join the group</th>
                                 <th scope="col">5h ADVANCED COURSE</th>
                                 <th scope="col">1h INDIVIDUAL LESSONS</th>
+                                <th scope="col">Windsurf licence (VDWS)</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>500.00 kn</td>
-                                <td>900,00 kn</td>
-                                <td>1.500,00 kn</td>
-                                <td>250,00 kn</td>
-                                <td>1200,00 kn</td>
-                                <td>370,00 kn</td>
+                                <td><strong> 70,00€ </strong> <small> </br>(527,42 HRK)</td></small>
+                                <td><strong> 120,00€</strong> <small> </br>(904,14 HRK)</td></small>
+                                <td><strong> 200,00€</strong> <small> </br>(1.506,90 HRK)</td></small>
+                                <td><strong> 50,00€ </strong> <small> </br>(376,73HRK)</td></small>
+                                <td><strong> 170,00€</strong> <small> </br>(1.280,00 HRK)</td></small>
+                                <td><strong> 70,00€ </strong> <small> </br>(527,42 HRK)</td></small>
+                                <td><strong> 40,00€ </strong> <small> </br>(301,38 HRK)</td></small>
                             </tr>
                         </tbody>
                     </table>
@@ -93,21 +110,37 @@ upwind sailing and jibe practicing between beautiful nearby islands.
                             <tr>
                                 <th scope="col">1H</th>
                                 <th scope="col">3H</th>
-                                <th scope="col">1 DAY</th>
+                                <th scope="col">PREPAID 5 HOURS</th>
+                                <th scope="col">PREPAID 10 HOURS</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>150.00 kn</td>                              
-                                <td>350,00 kn</td>
-                                <td>500,00 kn</td>
+                                <td><strong> 20,00€ </strong> </br> <small> (150,69 HRK)</small></td>
+                                <td><strong> 50,00€ </strong> <small> </br>(376,73 HRK)</td></small>
+                                <td><strong> 80,00€ </strong> <small> </br>(602,76 HRK)</td></small>
+                                <td><strong> 135,00€ </strong> <small> </br>(1.017,16 HRK)</td></small>
                             </tr>
                         </tbody>
                     </table>
+
+                    <div class="alert alert-info" role="alert">
+                        <h6 class="text-muted text-center h7"><b>BIG COMBO</b></h6>
+                        <h5>8h windsurf school(licence)+ no limit windsurf rental + no limit SUP + No limit kayak</h5>
+                        <p> <b>400,00€ </b> <small>(3.013,80 HRK)</small>
+                        <p>
+                        <h6 class="text-muted text-center h7"><b>SMALL COMBO</b></h6>
+                        <h5>SMALL COMBO: 8h windsurf school(licence)+ no limit windsurf rental </h5>
+                        <p> <b>300,00€</b> <small> (2.260,35 HRK)
+                            </small>
+                        <p>
+
+                    </div>
+
                 </div>
 
                 <div class="text-center">
-                    <a href="img/services/price.jpg" class="btn btn-default ">DOWNLOAD PRICE
+                    <a href="img/services/price.pdf" class="btn btn-default ">DOWNLOAD PRICE
                         LIST</a>
                 </div>
 

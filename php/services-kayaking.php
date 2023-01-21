@@ -8,34 +8,42 @@
                 <h4 class="modal-title">KAYAKING</h4>
             </div>
             <div class="modal-body">
-                <h5 class="services-sm-title">KAYAK RENTAL <!-- <span class="price-badge hidden-xs">80,00 HRK</span> --></h5>
-               
-                <p class="text-muted">Visit us at our kayak rental station located on beautiful island St. Andrew. Start the adventure of exploring the nearby islands, enjoy the natural beauties of the coast and the open sea, meet the dolphins… Kayak rental on St. Andrew Island is here to help you to create the unforgettable memories while paddling through clear blue sparkling sea.
+                <h5 class="services-sm-title">KAYAK RENTAL
+                    <!-- <span class="price-badge hidden-xs">80,00 HRK</span> -->
+                </h5>
+
+                <p class="text-muted">Visit us at our kayak rental station located on beautiful island St. Andrew. Start
+                    the adventure of exploring the nearby islands, enjoy the natural beauties of the coast and the open
+                    sea, meet the dolphins… Kayak rental on St. Andrew Island is here to help you to create the
+                    unforgettable memories while paddling through clear blue sparkling sea.
                 </p>
                 <hr>
-                <h5 class="services-sm-title">KAYAK SUNSET TOUR <!-- <span class="price-badge hidden-xs">200,00 HRK</span> -->
+                <h5 class="services-sm-title">KAYAK SUNSET TOUR
+                    <!-- <span class="price-badge hidden-xs">200,00 HRK</span> -->
                 </h5>
-               
 
-                <p class="text-muted">Kayak sunset tour starts from our rental station on island St Andrew when we start  to paddle to island St. John. 
-                        When we get there, we make a short break on the island.
-                        Here you will have the time to drink water and take some photos, after visiting old Benedictians church. The brave ones will have the opportunity to jump in the sea from cliff.
-                        After break we are kayaking around islands and searching for dolphins during the amazing sunset.
-                        The duration of our kayak tour is around 2 hours.
-                        Meeting point: Windsurf center Red island.
-                        Route: Island St. Andrew-Island St. John-Lighthouse St John-Island St. Andrew
 
-                    <h5 class="services-sm-title text-uppercase">Don’t forget to take with you:</h5>
-                        <ul class="list-group">
-                            <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Water</li>
-                            <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Suntan lotion</li>
-                            <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Swimsuit</li>
-                            <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Sunglasses</li>
-                            <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Slippers / sandals
+                <p class="text-muted">Kayak sunset tour starts from our rental station on island St Andrew when we start
+                    to paddle to island St. John.
+                    When we get there, we make a short break on the island.
+                    Here you will have the time to drink water and take some photos, after visiting old Benedictians
+                    church. The brave ones will have the opportunity to jump in the sea from cliff.
+                    After break we are kayaking around islands and searching for dolphins during the amazing sunset.
+                    The duration of our kayak tour is around 2 hours.
+                    Meeting point: Windsurf center Red island.
+                    Route: Island St. Andrew-Island St. John-Lighthouse St John-Island St. Andrew
+
+                <h5 class="services-sm-title text-uppercase">Don’t forget to take with you:</h5>
+                <ul class="list-group">
+                    <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Water</li>
+                    <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Suntan lotion</li>
+                    <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Swimsuit</li>
+                    <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Sunglasses</li>
+                    <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Slippers / sandals
                     </li>
-                            <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Good vibes (obligatory)
+                    <li class="list-group-item "><i class="fa fa-check" aria-hidden="true"></i> Good vibes (obligatory)
                     </li>
-                        </ul>
+                </ul>
 
                 </p>
                 <hr>
@@ -46,15 +54,18 @@
                         <thead>
                             <tr>
                                 <th scope="col">1H KAYAK RENTAL </th>
-                                <th scope="col">4H/half day KAYAK RENTAL </th>
-                                <th scope="col">8H/1day KAYAK RENTAL </th>
+                                <th scope="col">4H KAYAK RENTAL</th>
+                                <th scope="col">PREPAID 5 HOURS </th>
+                                <th scope="col">PREPAID 10 HOURS </th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>100.00 kn</td>
-                                <td>300,00 kn</td>
-                                <td>400,00 kn</td>
+                                <td><strong> 15,00€ </strong> </br> <small> (113,02 HRK)</small></td>
+                                <td><strong> 140,00€ </strong> </br> <small> (301,38 HRK)</small></td>
+                                <td><strong> 60,00€</strong> </br> <small> (452,07 HRK)</small></td>
+                                <td><strong> 80,00€</strong> </br> <small> (602,76 HRK)</small></td>
+
 
                             </tr>
                         </tbody>
@@ -66,18 +77,18 @@
                     <table class="table table-hover table-striped">
                         <thead>
                             <tr>
-                                <th scope="col">KAYAK SUNSET TOUR 18:00-21:00 </th>
+                                <th scope="col">KAYAK SUNSET TOUR with guide, duration 2.5-3 hours </th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>250.00 kn / per person</td>
+                                <td><strong> 40,00€ / person</strong> </br> <small> (301,38 HRK)</small></td>
                             </tr>
                         </tbody>
                     </table>
                 </div>
                 <div class="text-center">
-                    <a href="img/kayak/kayak-price.jpg" class="btn btn-default ">DOWNLOAD PRICE
+                    <a href="img/services/price.pdf" class="btn btn-default ">DOWNLOAD PRICE
                         LIST</a>
                 </div>
                 <hr>

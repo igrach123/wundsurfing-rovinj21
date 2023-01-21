@@ -34,10 +34,11 @@
                             class="scroll ">POČETNA</a></li>
                     <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#services"
                             class="scroll">USLUGE</a></li>
+                            <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#galery" class="scroll">GALERIJA
+                        </a></li>
                     <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#onama" class="scroll">O
                             NAMA</a></li>
-                    <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#galery" class="scroll">GALERIJA
-                        </a></li>
+                    
 
                     <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#footer"
                             class="scroll">KONTAKT</a></li>

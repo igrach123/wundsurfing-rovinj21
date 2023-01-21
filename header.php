@@ -34,9 +34,10 @@
                             class="scroll ">HOME</a></li>
                     <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#services"
                             class="scroll">SERVICES</a></li>
+                            <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#galery" class="scroll">GALLERY</a></li>
                     <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#onama"
                             class="scroll">ABOUT</a></li>
-                    <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#galery" class="scroll">GALLERY</a></li>
+                    
 
                     <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#footer"
                             class="scroll">CONTACT</a></li>

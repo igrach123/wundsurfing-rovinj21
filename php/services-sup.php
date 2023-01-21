@@ -11,10 +11,12 @@
                 <h5 class="services-sm-title">ABOUT</h5>
 
                 <p class="text-muted">
-                Visit us at our SUP rental station located on beautiful island St. Andrew. Start the adventure of exploring
-nearby islands and secret bays, enjoy the natural beauties of the coast and the open sea, meet the
-dolphins… Stand up paddle rental on St. Andrew Island is here to help you to create the unforgettable
-memories while paddling through clear blue sparkling sea.</b>
+                    Visit us at our SUP rental station located on beautiful island St. Andrew. Start the adventure of
+                    exploring
+                    nearby islands and secret bays, enjoy the natural beauties of the coast and the open sea, meet the
+                    dolphins… Stand up paddle rental on St. Andrew Island is here to help you to create the
+                    unforgettable
+                    memories while paddling through clear blue sparkling sea.</b>
                 </p>
                 <hr>
                 <h5 class="services-sm-title">PRICE LIST</h5>
@@ -23,34 +25,34 @@ memories while paddling through clear blue sparkling sea.</b>
                     <table class="table table-hover table-striped">
                         <thead>
                             <tr>
-                                <th scope="col">1H </th>
-                                <th scope="col">4H/half day </th>
-                                <th scope="col">8H/1 day  </th>
-
-
-
+                                <th scope="col">1H RENTAL </th>
+                                <th scope="col">4H RENTAL</th>
+                                <th scope="col">PREPAID 5 HOURS </th>
+                                <th scope="col">PREPAID 10 HOURS </th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>100.00 kn</td>
-                                <td>300,00 kn</td>
-                                <td>400,00 kn</td>
+                                <td><strong> 15,00€ </strong> </br> <small> (113,02 HRK)</small></td>
+                                <td><strong> 140,00€ </strong> </br> <small> (301,38 HRK)</small></td>
+                                <td><strong> 60,00€</strong> </br> <small> (452,07 HRK)</small></td>
+                                <td><strong> 80,00€</strong> </br> <small> (602,76 HRK)</small></td>
+
+
                             </tr>
                         </tbody>
                     </table>
                 </div>
                 <div class="text-center">
-                    <a href="img/services/price.jpg" class="btn btn-default ">DOWNLOAD PRICE
-                        LIST</a>
+                    <a href="../img/services/price.pdf" class="btn btn-default ">SKINI CJENIK</a>
                 </div>
                 <hr>
                 <h5 class="services-sm-title">GALLERY & SOCIAL</h5>
-                <div class="row text-center video-bot"> 
+                <div class="row text-center video-bot">
                     <div class="col-sm-12 onama-front">
-                    <div class="js-lazyYT card-2" data-youtube-id="X3QYxILjGY4" data-ratio="16:9"></div>
+                        <div class="js-lazyYT card-2" data-youtube-id="X3QYxILjGY4" data-ratio="16:9"></div>
                     </div>
-                        
+
                 </div>
                 <!-- galerija -->
                 <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">

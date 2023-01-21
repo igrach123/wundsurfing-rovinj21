@@ -8,8 +8,10 @@
                 <h4 class="modal-title">KAJAK</h4>
             </div>
             <div class="modal-body">
-                <h5 class="services-sm-title">NAJAM KAJAKA <!-- <span class="price-badge hidden-xs">80,00 HRK</span> --></h5>
-             <!--    <span class="price-badge2 visible-xs">80,00 HRK</span> -->
+                <h5 class="services-sm-title">NAJAM KAJAKA
+                    <!-- <span class="price-badge hidden-xs">80,00 HRK</span> -->
+                </h5>
+                <!--    <span class="price-badge2 visible-xs">80,00 HRK</span> -->
                 <p class="text-muted">Pozicija Windsurf centra Red island se nalazi u samom srcu Rovinjskog arhipelaga.
                     Na samo par minuta veslanja sa sjeverne strane nalazi se kamenolom i Punta Corrente dok se prema
                     jugu prostiru najveći i najljepši otoci Rovinjskog arhipelaga Maškin, Sturago, Sv. Ivan i Sv. Ivan
@@ -17,7 +19,8 @@
                     netaknute plaže i uvale do kojih je moguće doći samo s mora.
                 </p>
                 <hr>
-                <h5 class="services-sm-title">KAYAK SUNSET TOUR <!-- <span class="price-badge hidden-xs">200,00 HRK</span> -->
+                <h5 class="services-sm-title">KAYAK SUNSET TOUR
+                    <!-- <span class="price-badge hidden-xs">200,00 HRK</span> -->
                 </h5>
                 <!-- <span class="price-badge2 visible-xs">200,00 HRK</span> -->
                 <p class="text-muted">Poznato je da Rovinj ima jedan od najljepših zalazaka, no želite li ga doživjeti
@@ -39,8 +42,9 @@
                         <thead>
                             <tr>
                                 <th scope="col">1H NAJAM KAJAKA </th>
-                                <th scope="col">4H/pola dana NAJAM KAJAKA </th>
-                                <th scope="col">8H/1dan NAJAM KAJAKA </th>
+                                <th scope="col">4H NAJAM KAJAKA </th>
+                                <th scope="col">PREPAID 5 SATI </th>
+                                <th scope="col">PREPAID 10 SATI </th>
 
 
 
@@ -48,9 +52,11 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td>100.00 kn</td>
-                                <td>300,00 kn</td>
-                                <td>400,00 kn</td>
+                                <td><strong> 15,00€ </strong> </br> <small> (113,02 HRK)</small></td>
+                                <td><strong> 140,00€ </strong> </br> <small> (301,38 HRK)</small></td>
+                                <td><strong> 60,00€</strong> </br> <small> (452,07 HRK)</small></td>
+                                <td><strong> 80,00€</strong> </br> <small> (602,76 HRK)</small></td>
+
 
                             </tr>
                         </tbody>
@@ -62,18 +68,18 @@
                     <table class="table table-hover table-striped">
                         <thead>
                             <tr>
-                                <th scope="col">KAYAK SUNSET TOUR 18:00-21:00 </th>
+                                <th scope="col">KAYAK SUNSET TOUR with guide, duration 2.5-3 hours </th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>250.00 kn/po osobi</td>
+                                <td><strong> 40,00€ / person</strong> </br> <small> (301,38 HRK)</small></td>
                             </tr>
                         </tbody>
                     </table>
                 </div>
                 <div class="text-center">
-                    <a href="../img/kayak/kayak-price.jpg" class="btn btn-default ">SKINI CJENIK</a>
+                    <a href="../img/services/price.pdf" class="btn btn-default ">SKINI CJENIK</a>
                 </div>
                 <hr>
                 <h5 class="services-sm-title">GALERIJA I DRUŠTVENE MREŽE</h5>

@@ -38,10 +38,14 @@
                 <div class=" card-2 text-center" data-mh="my-group">
                     <a class="s-img-h-3" href="#services-bike" data-toggle="modal" role="button"
                         data-target="#services-bike">
-                        <p class="services-info"><span> Rent & SUP Yoga</span></p>
+                        <p class="services-info"><span> Rent SUP</span></p>
                         <h3 class="title">STAND UP PADDLE</h3>
                     </a>
                 </div>
+            </div>
+            <div class="text-center">
+                    <a href="img/services/price.pdf" class="btn btn-default ">DOWNLOAD PRICE
+                        LIST</a>
             </div>
         </div>
         <br><br><br>

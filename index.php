@@ -89,13 +89,12 @@
     <?php include "php/services-kayaking.php"; ?>
     <?php include "php/services-sup.php"; ?>
     <?php include "php/price.php"; ?>
-    <?php include "php/tenerife.php"; ?>
-    <?php include "php/services-tenerife.php"; ?>
+ 
     <div class="clearfix"></div>
-
+    <?php include "php/galery.php"?>
     <?php include "php/onama.php"?>
  
-    <?php include "php/galery.php"?>
+    
     <?php include "php/testimonials.php"?>
     <?php include "php/promo.php"?>
     

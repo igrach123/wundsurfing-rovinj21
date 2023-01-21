@@ -11,15 +11,18 @@
             <div class="modal-body">
                 <h5 class="services-sm-title">TEČAJEVI</h5>
 
-                <h6> <span><i class="fa fa-star-half-o" aria-hidden="true"></i></span> Probni tečaj <!-- <span
-                        class=" price-badge"> 500,00 HRK</span> --></h6>
+                <h6> <span><i class="fa fa-star-half-o" aria-hidden="true"></i></span> Probni tečaj
+                    <!-- <span
+                        class=" price-badge"> 500,00 HRK</span> -->
+                </h6>
                 <p>Namijenjen je za sve one koji žele isprobati kako je to jedriti na dasci. Tečaj se sastoji od dva
                     sata. Prvi sat je simulator i na vodi te drugi sat se odvija na vodi.
 
                 </p>
                 <hr>
                 <h6><span><i class="fa fa-star" aria-hidden="true"></i></span> Grupni tečajevi jedrenja na dasci
-                    (početnici, 4h i 8h)<!-- <span class=" price-badge">900,00 HRK</span> -->
+                    (početnici, 4h i 8h)
+                    <!-- <span class=" price-badge">900,00 HRK</span> -->
                 </h6>
                 <p>Tečajevima jedrenja na dasci mogu se priključiti svi u dobi od 6 godina. Tečaj traje 8 sati, i odvija
                     se ujutro od 10:00-12:00 i u popodnevnom terminu od 15:00-17:00, od toga, prvi sat se odvija na
@@ -41,7 +44,9 @@
 
                 <h6> <span><i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i><i
                             class="fa fa-star" aria-hidden="true"></i>
-                    </span> Napredni tečaj jedrenja na dasci <!-- <span class=" price-badge">1000,00 HRK</span> --></h6>
+                    </span> Napredni tečaj jedrenja na dasci
+                    <!-- <span class=" price-badge">1000,00 HRK</span> -->
+                </h6>
                 <p>Napredni tečaj jedrenja na dasci je predviđen za sve one koji su savladali elemente početničkog
                     tečaja te žele nastaviti svoju edukaciju jedrenja na dasci. Napredni tečaj se sastoji od pet
                     elemenata koji se uče u pet sati koliko i traje tečaj. Elementi su brzi okret u vjetar, okret niz
@@ -62,20 +67,23 @@
                                 <th scope="col">1H PRIDRUŽI SE GRUPI</th>
                                 <th scope="col">5h NAPREDNI TEČAJ</th>
                                 <th scope="col">PRIVATAN SAT</th>
+                                <th scope="col">Windsurf licence (VDWS)</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                 <td>500.00 kn</td>
-                                <td>900,00 kn</td>
-                                <td>1.500,00 kn</td>
-                                <td>250,00 kn</td>
-                                <td>1200,00 kn</td>
-                                <td>370,00 kn</td>
+                                <td><strong> 70,00€ </strong> <small> </br>(527,42 HRK)</td></small>
+                                <td><strong> 120,00€</strong> <small> </br>(904,14 HRK)</td></small>
+                                <td><strong> 200,00€</strong> <small> </br>(1.506,90 HRK)</td></small>
+                                <td><strong> 50,00€ </strong> <small> </br>(376,73HRK)</td></small>
+                                <td><strong> 170,00€</strong> <small> </br>(1.280,00 HRK)</td></small>
+                                <td><strong> 70,00€ </strong> <small> </br>(527,42 HRK)</td></small>
+                                <td><strong> 40,00€ </strong> <small> </br>(301,38 HRK)</td></small>
                             </tr>
                         </tbody>
                     </table>
                 </div>
+
 
                 <h6 class="text-muted text-center h7"><b>NAJAM OPREME</b> </h6>
 
@@ -86,21 +94,36 @@
                             <tr>
                                 <th scope="col">1H</th>
                                 <th scope="col">3H</th>
-                                <th scope="col">1 DAN</th>
+                                <th scope="col">PREPAID 5 HOURS</th>
+                                <th scope="col">PREPAID 10 HOURS</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>150.00 kn</td>
-                                <td>350,00 kn</td>
-                                <td>500,00 kn</td>
+                                <td><strong> 20,00€ </strong> </br> <small> (150,69 HRK)</small></td>
+                                <td><strong> 50,00€ </strong> <small> </br>(376,73 HRK)</td></small>
+                                <td><strong> 80,00€ </strong> <small> </br>(602,76 HRK)</td></small>
+                                <td><strong> 135,00€ </strong> <small> </br>(1.017,16 HRK)</td></small>
                             </tr>
                         </tbody>
                     </table>
                 </div>
 
+                <div class="alert alert-info" role="alert">
+                    <h6 class="text-muted text-center h7"><b>BIG COMBO</b></h6>
+                    <h5>8h windsurf school(licence)+ no limit windsurf rental + no limit SUP + No limit kayak</h5>
+                    <p> <b>400,00€ </b> <small>(3.013,80 HRK)</small>
+                    <p>
+                    <h6 class="text-muted text-center h7"><b>SMALL COMBO</b></h6>
+                    <h5>SMALL COMBO: 8h windsurf school(licence)+ no limit windsurf rental </h5>
+                    <p> <b>300,00€</b> <small> (2.260,35 HRK)
+                        </small>
+                    <p>
+
+                </div>
+
                 <div class="text-center">
-                    <a href="../img/services/price.jpg" class="btn btn-default ">SKINI CJENIK</a>
+                    <a href="../img/services/price.pdf" class="btn btn-default ">SKINI CJENIK</a>
                 </div>
 
                 <hr>
