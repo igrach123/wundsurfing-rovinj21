@@ -28,8 +28,9 @@
                         <thead>
                             <tr>
                                 <th scope="col">1H </th>
-                                <th scope="col">4H/pol dana  </th>
-                                <th scope="col">8H/1 dan </th>
+                                <th scope="col">4H  </th>
+                               <th scope="col">PREPAID 5 SATI </th>
+                                <th scope="col">PREPAID 10 SATI </th>
 
 
 
@@ -37,15 +38,16 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td>100.00 kn</td>
-                                <td>300,00 kn</td>
-                                <td>400,00 kn</td>
+                                 <td><strong> 15,00€ </strong> </br> <small> (113,02 HRK)</small></td>
+                                <td><strong> 140,00€ </strong> </br> <small> (301,38 HRK)</small></td>
+                                <td><strong> 60,00€</strong> </br> <small> (452,07 HRK)</small></td>
+                                <td><strong> 80,00€</strong> </br> <small> (602,76 HRK)</small></td>
                             </tr>
                         </tbody>
                     </table>
                 </div>
-                <div class="text-center">
-                    <a href="../img/services/price.jpg" class="btn btn-default ">SKINI CJENIK</a>
+               <div class="text-center">
+                    <a href="../img/services/price.pdf" target='_blank' class="btn btn-default ">SKINI CJENIK</a>
                 </div>
                 <hr>
                 <h5 class="services-sm-title">GALERIJA I DRUŠTVENE MREŽE</h5>

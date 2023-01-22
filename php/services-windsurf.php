@@ -140,7 +140,7 @@
                 </div>
 
                 <div class="text-center">
-                    <a href="img/services/price.pdf" class="btn btn-default ">DOWNLOAD PRICE
+                    <a href="img/services/price.pdf" target='_blank' class="btn btn-default ">DOWNLOAD PRICE
                         LIST</a>
                 </div>
 
