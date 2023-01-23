@@ -62,7 +62,7 @@
                         <tbody>
                             <tr>
                                 <td><strong> 15,00€ </strong> </br> <small> (113,02 HRK)</small></td>
-                                <td><strong> 140,00€ </strong> </br> <small> (301,38 HRK)</small></td>
+                                <td><strong> 40,00€ </strong> </br> <small> (301,38 HRK)</small></td>
                                 <td><strong> 60,00€</strong> </br> <small> (452,07 HRK)</small></td>
                                 <td><strong> 80,00€</strong> </br> <small> (602,76 HRK)</small></td>
 

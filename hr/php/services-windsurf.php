@@ -122,9 +122,6 @@
 
                 </div>
 
-                <div class="text-center">
-                    <a href="../img/services/price.pdf" target='_blank' class="btn btn-default ">SKINI CJENIK</a>
-                </div>
 
                 <hr>
                 <h5 class="services-sm-title">GALERIJA I DRUŠTVENE MREŽE</h5>
