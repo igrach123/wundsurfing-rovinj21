@@ -76,7 +76,7 @@
                         <h5><span class="fa fa-phone"></span> TEL / <span class="fa fa-whatsapp"></span> WHATSAPP -
                             VIBER</h5>
                     </li>
-                    <li class="bot-contact"> <a href="tel:+385 (0)922991550"> +385 (0)92 299 1550</a></li>
+                    <li class="bot-contact"> <a href="tel:+385 (0)915468379"> +385 (0)91 546 8379</a></li>
                     <hr>
                     <li class="bot-contact">
                         <h5><span class="fa fa-envelope-o"></span> EMAIL</h5>

@@ -2,8 +2,8 @@
     <div class="container-fluid hidden-xs" id="call">
         <div class="container">
 
-            <a href="tel:+385 (0)92 299 1550"> <span class="fa fa-phone top-phone"></span>
-                +385 (0)92 299 1550</a>
+            <a href="tel:+385 (0)91 546 8379"> <span class="fa fa-phone top-phone"></span>
+                +385 (0)91 546 8379</a>
             <a href="#top-location" data-target="#top-location" data-toggle="modal" role="button"> <span
                     class="fa fa-map-marker top-map"></span> RED ISLAND
             </a>
